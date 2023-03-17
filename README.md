@@ -1,28 +1,12 @@
 
-# Obsidian Text Generator Plugin 
-<a href="https://www.buymeacoffee.com/haouarine" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-**Text Generator** is an open-source AI Assistant Tool that brings the power of Generative Artificial Intelligence to the power of knowledge creation and organization in Obsidian.
-
-For example, use Text Generator to generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your knowledge database.
-
-The possibilities are endless!
+# Obsidian AI-Notes plugin
 
 
-If you're looking for a place to discuss the use cases of this plugin and share your experiences, head over to our [**Discord Server**](https://discord.gg/bJm33Rqk) or the [Discussion](https://github.com/nhaouari/obsidian-textgenerator-plugin/discussions/categories/use-cases). There, you'll find a community of like-minded users who are eager to help you make the most of this powerful tool.
+**AI-Notes** is an open-source work in progress tool which is meant to help you take notes more effficiently
 
-# Features
+For example, use AI-Notes to create automated notes regarding a concept that you are not familiar with.
 
-There are many benefits to using a Text Generator Plugin, including the following:
+The goal is to focus on taking notes for the subject at hand, without being limited by your lack of understanding from other sub-concepts :)
 
-* **Free and Open Source**: The Text Generator Plugin is free and open source, so you can use it without worrying about licensing fees.
-* **Beside Obsidian**: Obsidian is very powerful and extensible Personal Knowledge Management software so you can use Text Generator Plugin alongside Obsidian to create a more powerful Personal Knowledge Management system.
-* **Flexible Prompts**: The context of the prompt is straightforward using all the available options in the Considered Context which gives you a higer filexibilty.
-* **Template Engine**: You can create templates to make repetitive tasks more manageable.
-* **Community Templates**: Through this option you can discover new use cases of Generative Artificial Intelligence using the shared templates and you can share your use cases easier.
-* **Highly Flexible Configuration**: Using Frontmatter Configuration, it is possible to use different services such as OpenAI, HugginFace.
-# Demonstration 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OergqWCdFKc/0.jpg)](https://www.youtube.com/watch?v=OergqWCdFKc)
-# Documentation 
-> [Documentation](https://bit.ly/3ORwT00). 
+The entire code base is Forked and inspired by the Obsidian Text-Generator plugin. You can read more about that [here](https://github.com/nhaouari/obsidian-textgenerator-plugin).
 
